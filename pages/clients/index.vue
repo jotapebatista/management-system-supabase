@@ -1,0 +1,3 @@
+<template>
+	Clients page
+</template>
